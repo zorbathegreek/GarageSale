@@ -9,7 +9,8 @@ title: Items for Sale
 [link3]("/assets/DSC02213_comp.jpg")
 
 [link4]("../assets/DSC02213_comp.jpg")
-![link5]("/assets/DSC02213_comp.jpg")
+
+[link5]({{ site.baseurl }}"/assets/DSC02213_comp.jpg")
 ![link6]("/assets/DSC02213_comp.jpg")
 ![link7]("/assets/DSC02213_comp.jpg")
 ![link8]("/assets/DSC02213_comp.jpg")
