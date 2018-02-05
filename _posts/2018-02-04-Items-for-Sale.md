@@ -48,7 +48,7 @@ More coming soon...
 
 
 
-
+<hr>
 <form action="https://formspree.io/garagesale.ashs@gmail.com"
 	method="POST">
 
@@ -63,5 +63,6 @@ More coming soon...
     
 </form>
 <br>
+<hr>
 
 We'll get back to you asap!
