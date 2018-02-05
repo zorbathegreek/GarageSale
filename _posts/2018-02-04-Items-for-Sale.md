@@ -34,14 +34,15 @@ We have had a lot of things lying around since our move from Gisenyi and Kibuye 
 [dito]({{ site.baseurl }}/assets/DSC02262.JPG)
 14. [Flotte Lotte]({{ site.baseurl }}/assets/DSC02264.JPG)
 15. [frying pan]({{ site.baseurl }}/assets/DSC02267.JPG)
-20. [cheese grater]({{ site.baseurl }}/assets/DSC02271.JPG)  
+16. [cheese grater]({{ site.baseurl }}/assets/DSC02271.JPG)  
 [dito]({{ site.baseurl }}/assets/DSC02272.JPG)  
 [dito]({{ site.baseurl }}/assets/DSC02274.JPG)  
-21. [various kitchen utensils]({{ site.baseurl }}/assets/DSC02275.JPG)
-22. [classical Rwandan motive]({{ site.baseurl }}/assets/DSC02277.JPG)
-23. [camp bed]({{ site.baseurl }}/assets/DSC02278.JPG)  
+17. [various kitchen utensils]({{ site.baseurl }}/assets/DSC02275.JPG)
+18. [classical Rwandan motive]({{ site.baseurl }}/assets/DSC02277.JPG)
+19. [camp bed]({{ site.baseurl }}/assets/DSC02278.JPG)  
 [dito, half way set up]({{ site.baseurl }}/assets/DSC02280.JPG)  
 [dito, ready]({{ site.baseurl }}/assets/DSC02281.JPG)
+20. [grease separator]({{ site.baseurl }}/assets/DSC02243.JPG)
 
 More coming soon...
 
