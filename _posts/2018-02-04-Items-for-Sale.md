@@ -44,3 +44,9 @@ We have had a lot of things lying around since our move from Gisenyi and Kibuye 
 [dito, ready]({{ site.baseurl }}/assets/DSC02281.JPG)
 
 More coming soon...
+
+<form action="https://formspree.io/you@email.com">
+    <input type="text" name="name">
+    <input type="email" name="_replyto">
+    <input type="submit" value="Send">
+</form>
