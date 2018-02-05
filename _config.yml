@@ -4,12 +4,6 @@ author: Anthony & Heidrun
 # email: your-email@domain.com
 description: Selling stuff that's been lying around forever...
 
-<form action="https://formspree.io/garagesale.ashs@gmail.comm">
-    <input type="text" name="name">
-    <input type="email" name="_replyto">
-    <input type="submit" value="Send">
-</form>s
-
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
