@@ -57,8 +57,11 @@ More coming soon...
     Which items are you interest in?: <input type="text" name="item"><br>
     
     Your email address: <input type="email" name="_replyto"><br>
+    <br>
     
     <input type="submit" value="Send">
+    <br>
 </form>
+
 
 We'll get back to you asap!
