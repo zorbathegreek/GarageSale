@@ -49,6 +49,7 @@ More coming soon...
 
 
 <hr>
+<br>
 <form action="https://formspree.io/garagesale.ashs@gmail.com"
 	method="POST">
 
