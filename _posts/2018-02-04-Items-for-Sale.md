@@ -18,7 +18,7 @@ We have had a lot of things lying around since our move from Gisenyi and Kibuye 
 7. [lamp shade]({{ site.baseurl }}/assets/DSC02236_comp.JPG)
 8. [laptop bag]({{ site.baseurl }}/assets/DSC02239_comp.jpg)  
 [dito]({{ site.baseurl }}/assets/DSC02240_comp.jpg)
-9. [suit and shirts travel bag]({{ site.baseurl }}/assets/DSC02241.JPG)
+9. [suit and shirts travel bag]({{ site.baseurl }}/assets/DSC02241.JPG)  
 [dito]({{ site.baseurl }}/assets/DSC02242.JPG)
 10. [Uganda Mountain Gorilla footprint]({{ site.baseurl }}/assets/DSC02245.JPG)
 11. [motorcycle gear; Dainese trousers]({{ site.baseurl }}/assets/DSC02247.JPG)  
