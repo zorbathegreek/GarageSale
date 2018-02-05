@@ -36,7 +36,7 @@ We have had a lot of things lying around since our move from Gisenyi and Kibuye 
 15. [frying pan]({{ site.baseurl }}/assets/DSC02267.JPG)
 20. [cheese grater]({{ site.baseurl }}/assets/DSC02271.JPG)  
 [dito]({{ site.baseurl }}/assets/DSC02272.JPG)  
-[dito]({{ site.baseurl }}/assets/DSC0274.JPG)  
+[dito]({{ site.baseurl }}/assets/DSC02274.JPG)  
 21. [various kitchen utensils]({{ site.baseurl }}/assets/DSC02275.JPG)
 22. [classical Rwandan motive]({{ site.baseurl }}/assets/DSC02277.JPG)
 23. [camp bed]({{ site.baseurl }}/assets/DSC02278.JPG)  
