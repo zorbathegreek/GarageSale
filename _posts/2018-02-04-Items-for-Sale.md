@@ -49,6 +49,8 @@ More coming soon...
 
 
 <form action="https://formspree.io/garagesale.ashs@gmail.comm">
+    <method="POST">
+
     Your name: <input type="text" name="name"><br>
     
     Which items are you interest in?: <input type="text" name="item"><br>
