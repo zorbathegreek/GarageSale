@@ -49,11 +49,13 @@ More coming soon...
 
 
 <form action="https://formspree.io/garagesale.ashs@gmail.comm">
-    <input type="text" name="name">
-    Your name
-    <input type="text" name="item">
-    Which item are you interest in?
-    <input type="email" name="_replyto">
-    Your email address
+    Your name: <input type="text" name="name">
+    
+    Which items are you interest in?: <input type="text" name="item">
+    
+    Your email address: <input type="email" name="_replyto">
+    
     <input type="submit" value="Send">
 </form>
+
+We'll get back to you asap!
