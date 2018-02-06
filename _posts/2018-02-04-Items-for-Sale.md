@@ -6,7 +6,7 @@ We have had a lot of things lying around since our move from Gisenyi and Kibuye 
 
 
 1. [Six Pairs of Shoes] partly sold, will update picture soon <!--- #({{ site.baseurl }}/assets/DSC02213_comp.jpg)-->
-2. [Non-stick steam iron]({{ site.baseurl }}/assets/DSC02217_comp.JPG)
+2. [Non-stick steam iron]({{ site.baseurl }}/assets/DSC02217_comp.JPG) FRW 10,000
 3. [Picco Espresso machine, 230V~ 850W]({{ site.baseurl }}/assets/DSC02220_comp.JPG)  
 [dito]({{ site.baseurl }}/assets/DSC02225_comp.JPG)
 4. [car jack]({{ site.baseurl }}/assets/DSC02226_comp.JPG)
