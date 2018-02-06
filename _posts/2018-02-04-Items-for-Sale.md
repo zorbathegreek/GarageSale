@@ -26,11 +26,11 @@ We have had a lot of things lying around since our move from Gisenyi and Kibuye 
 [ motorcycle gear; Ice Shield jacket]({{ site.baseurl }}/assets/DSC02251.JPG)  FRW 100,000  
 [ motorcycle gear; dito]({{ site.baseurl }}/assets/DSC02252.JPG)  
 [ motorcycle gear; Heros gloves]({{ site.baseurl }}/assets/DSC02254.JPG)  FRW 50,000  
-[ motorcycle gear; Held kidney belt]({{ site.baseurl }}/assets/DSC02255.JPG)
+[ motorcycle gear; Held kidney belt]({{ site.baseurl }}/assets/DSC02255.JPG)  FRW 15,000   
 12. [baking sheets]({{ site.baseurl }}/assets/DSC02256.JPG)  FRW 10,000  
 [dito]({{ site.baseurl }}/assets/DSC02257.JPG)  
 [dito]({{ site.baseurl }}/assets/DSC02258.JPG)  
-13. [water boiler Nevica]({{ site.baseurl }}/assets/DSC02259.JPG)  FRW     
+13. [water boiler Nevica]({{ site.baseurl }}/assets/DSC02259.JPG)  FRW 15,000   
 [dito]({{ site.baseurl }}/assets/DSC02262.JPG)
 14. [Flotte Lotte]({{ site.baseurl }}/assets/DSC02264.JPG) FRW 3,000   
 15. [frying pan]({{ site.baseurl }}/assets/DSC02267.JPG)  FRW 5,000  
