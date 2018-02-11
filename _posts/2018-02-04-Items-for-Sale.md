@@ -15,17 +15,17 @@ We have had a lot of things lying around since our move from Gisenyi and Kibuye 
 [dito]({{ site.baseurl }}/assets/DSC02229_comp.JPG)  
 6. [Chinese wok set]({{ site.baseurl }}/assets/DSC02234_comp.JPG) FRW 20,000    
 [dito]({{ site.baseurl }}/assets/DSC02235_comp.JPG)
-7. [lamp shade]({{ site.baseurl }}/assets/DSC02236_comp.JPG) FRW 2,000  
-8. [laptop bag]({{ site.baseurl }}/assets/DSC02239_comp.jpg)  FRW 5,000  
+7. [lamp shade]({{ site.baseurl }}/assets/DSC02236_comp.JPG) FRW 5,000  
+8. [laptop bag, rather small]({{ site.baseurl }}/assets/DSC02239_comp.jpg)  FRW 5,000  
 [dito]({{ site.baseurl }}/assets/DSC02240_comp.jpg)
 9. [suit and shirts travel bag]({{ site.baseurl }}/assets/DSC02241.JPG) FRW 5,000   
 [dito]({{ site.baseurl }}/assets/DSC02242.JPG)
 10. [Uganda Mountain Gorilla footprint]({{ site.baseurl }}/assets/DSC02244.JPG) FRW 10,000  
-11. [motorcycle gear; Dainese pants]({{ site.baseurl }}/assets/DSC02247.JPG) FRW 200,000    
+11. [motorcycle gear; Dainese pants]({{ site.baseurl }}/assets/DSC02247.JPG) FRW 100,000    
 [ motorcycle gear; dito]({{ site.baseurl }}/assets/DSC02250.JPG)  
 [ motorcycle gear; Ice Shield jacket]({{ site.baseurl }}/assets/DSC02251.JPG)  FRW 100,000  
 [ motorcycle gear; dito]({{ site.baseurl }}/assets/DSC02252.JPG)  
-[ motorcycle gear; Heros gloves]({{ site.baseurl }}/assets/DSC02254.JPG)  FRW 50,000  
+[ motorcycle gear; Heros gloves]({{ site.baseurl }}/assets/DSC02254.JPG)  FRW 30,000  
 [ motorcycle gear; Held kidney belt]({{ site.baseurl }}/assets/DSC02255.JPG)  FRW 15,000   
 12. [baking sheets]({{ site.baseurl }}/assets/DSC02256.JPG)  FRW 10,000  
 [dito]({{ site.baseurl }}/assets/DSC02257.JPG)  
@@ -34,12 +34,12 @@ We have had a lot of things lying around since our move from Gisenyi and Kibuye 
 [dito]({{ site.baseurl }}/assets/DSC02262.JPG)
 14. [Flotte Lotte]({{ site.baseurl }}/assets/DSC02264.JPG) FRW 3,000   
 15. [frying pan]({{ site.baseurl }}/assets/DSC02267.JPG)  FRW 5,000  
-16. [cheese grater]({{ site.baseurl }}/assets/DSC02271.JPG)  FRW 5,000   
+16. [cheese grater ]({{ site.baseurl }}/assets/DSC02271.JPG)  FRW 15,000   
 [dito]({{ site.baseurl }}/assets/DSC02272.JPG)  
 [dito]({{ site.baseurl }}/assets/DSC02274.JPG)  
 17. [various kitchen utensils]({{ site.baseurl }}/assets/DSC02275.JPG) FRW 15,000 (all)
 18. [wall decoration, classical Rwandan motive]({{ site.baseurl }}/assets/DSC02277.JPG) FRW 20,000    
-19. [camp bed]({{ site.baseurl }}/assets/DSC02278.JPG)  FRW 25,000  
+19. [camp bed]({{ site.baseurl }}/assets/DSC02278.JPG)  FRW 30,000  
 [dito, half way set up]({{ site.baseurl }}/assets/DSC02280.JPG)  
 [dito, ready]({{ site.baseurl }}/assets/DSC02281.JPG)
 20. [sauce fat separator]({{ site.baseurl }}/assets/DSC02243.JPG) FRW 10,000    
