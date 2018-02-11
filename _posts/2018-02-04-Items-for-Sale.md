@@ -5,7 +5,7 @@ title: Items for Sale
 We have had a lot of things lying around since our move from Gisenyi and Kibuye to Cyangugu. Here is a list with pictures and proposed prices. If you are interested, go to the bottom, fill in the contact form, and let us know what you're interested in (the items are numbered). And maybe give us a close offer. And please feel free to pass on this [link](https://zorbathegreek.github.io/GarageSale/) 
 
 
-<!-- 1. [Six Pairs of Shoes] partly sold, will update picture soon <!--- #({{ site.baseurl }}/assets/DSC02213_comp.jpg)-->
+<!-- 1. [Six Pairs of Shoes] partly sold, will update picture soon <!--- #({{ site.baseurl }}/assets/DSC02213_comp.jpg)--> 
 2. [Non-stick steam iron]({{ site.baseurl }}/assets/DSC02217_comp.JPG) FRW 10,000  
 3. [Picco Espresso machine, 230V~ 850W]({{ site.baseurl }}/assets/DSC02220_comp.JPG) FRW 50,000  
 [dito]({{ site.baseurl }}/assets/DSC02225_comp.JPG)
@@ -42,8 +42,12 @@ We have had a lot of things lying around since our move from Gisenyi and Kibuye 
 19. [camp bed]({{ site.baseurl }}/assets/DSC02278.JPG)  FRW 30,000  
 [dito, half way set up]({{ site.baseurl }}/assets/DSC02280.JPG)  
 [dito, ready]({{ site.baseurl }}/assets/DSC02281.JPG)
-20. [sauce fat separator]({{ site.baseurl }}/assets/DSC02243.JPG) FRW 10,000    
-
+20. [sauce fat separator]({{ site.baseurl }}/assets/DSC02243.JPG) FRW 10,000  
+21. [Camping washing machine]({{ site.baseurl }}/assets/DSC02219.JPG) FRW 25,000
+22. [Handheld Vacuum Cleaner]({{ site.baseurl }}/assets/handheld_vacuum.jpg) FRW 20,000
+    [dito]({{ site.baseurl }}/assets/handheld_vacuum2.jpg) 
+23. [3-in-1 hand held blender]({{ site.baseurl }}/assets/blender3-in-1.jpg) FRW 20.000
+24. [WMF electric spice grinder]({{ site.baseurl }}/assets/WMF_	grinder.jpg) 
 More coming soon...
 
 
