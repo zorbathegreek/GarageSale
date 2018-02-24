@@ -10,7 +10,7 @@ We have had a lot of things lying around since our move from Gisenyi and Kibuye 
 3. [Picco Espresso machine, 230V~ 850W]({{ site.baseurl }}/assets/DSC02220_comp.JPG) FRW 50,000  
 [dito]({{ site.baseurl }}/assets/DSC02225_comp.JPG)
 4. [Car jack]({{ site.baseurl }}/assets/DSC02226_comp.JPG) FRW 10,000  
-5. [cCmfortable bicycle saddle]({{ site.baseurl }}/assets/DSC02227_comp.JPG) FRW 20,000   
+5. [Comfortable bicycle saddle]({{ site.baseurl }}/assets/DSC02227_comp.JPG) FRW 20,000   
 [dito]({{ site.baseurl }}/assets/DSC02228_comp.JPG)  
 [dito]({{ site.baseurl }}/assets/DSC02229_comp.JPG)  
 6. [Chinese wok set]({{ site.baseurl }}/assets/DSC02234_comp.JPG) FRW 20,000    
