@@ -48,7 +48,7 @@ We have had a lot of things lying around since our move from Gisenyi and Kibuye 
 [dito]({{ site.baseurl }}/assets/handheld_vacuum2.jpg) 
 23. [3-in-1 hand held blender]({{ site.baseurl }}/assets/blender3-in-1.jpg) FRW 20.000
 24. [WMF electric herbs and spice grinder]({{ site.baseurl }}/assets/WMF_grinder.jpg) FRW 25,000 [link:](https://www.wmf.com/en/electric-mill.html) 
-25. [Juicer]({{ site.baseurl }}/assets/juicer.jpg) FRW 10,000 
+25. [Juicer]({{ site.baseurl }}/assets/juicer.jpg) FRW 20,000 
 
 
 <!-- copy and paste the following line for more items 
