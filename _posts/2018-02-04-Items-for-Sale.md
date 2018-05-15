@@ -32,12 +32,12 @@ We have had a lot of things lying around since our move from Gisenyi and Kibuye 
 [dito]({{ site.baseurl }}/assets/DSC02258.JPG)  
 13. [Water boiler Nevica]({{ site.baseurl }}/assets/DSC02259.JPG)  FRW 15,000   
 [dito]({{ site.baseurl }}/assets/DSC02262.JPG)
-14. [Flotte Lotte]({{ site.baseurl }}/assets/DSC02264.JPG) FRW 3,000   
 15. [Frying pan]({{ site.baseurl }}/assets/DSC02267.JPG)  FRW 5,000  
 16. [Cheese grater ]({{ site.baseurl }}/assets/DSC02271.JPG)  FRW 15,000   
 [dito]({{ site.baseurl }}/assets/DSC02272.JPG)  
 [dito]({{ site.baseurl }}/assets/DSC02274.JPG)  
-17. [Various kitchen utensils]({{ site.baseurl }}/assets/DSC02275.JPG) FRW 15,000 (all)
+17. [Various kitchen utensils]({{ site.baseurl }}/assets/DSC02275.JPG) FRW 15,000 (combined)
+[dito]({{ site.baseurl }}/assets/DSC02264.JPG)
 18. [Wall decoration, classical Rwandan motive]({{ site.baseurl }}/assets/DSC02277.JPG) FRW 20,000    
 19. [Camp bed]({{ site.baseurl }}/assets/DSC02278.JPG)  FRW 30,000  
 [dito, half way set up]({{ site.baseurl }}/assets/DSC02280.JPG)  
