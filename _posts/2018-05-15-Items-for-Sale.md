@@ -9,7 +9,6 @@ We have had a lot of things lying around since our move from Gisenyi and Kibuye 
 2. [Non-stick steam iron]({{ site.baseurl }}/assets/DSC02217_comp.JPG) FRW 10,000  
 3. [Picco Espresso machine, 230V~ 850W]({{ site.baseurl }}/assets/DSC02220_comp.JPG) FRW 50,000  
 [dito]({{ site.baseurl }}/assets/DSC02225_comp.JPG)
-4. [Car jack]({{ site.baseurl }}/assets/DSC02226_comp.JPG) FRW 10,000  
 5. [Comfortable bicycle saddle]({{ site.baseurl }}/assets/DSC02227_comp.JPG) FRW 20,000   
 [dito]({{ site.baseurl }}/assets/DSC02228_comp.JPG)  
 [dito]({{ site.baseurl }}/assets/DSC02229_comp.JPG)  
@@ -18,8 +17,6 @@ We have had a lot of things lying around since our move from Gisenyi and Kibuye 
 7. [Lamp shade]({{ site.baseurl }}/assets/DSC02236_comp.JPG) FRW 5,000  
 8. [Laptop bag, rather small]({{ site.baseurl }}/assets/DSC02239_comp.jpg)  FRW 5,000  
 [dito]({{ site.baseurl }}/assets/DSC02240_comp.jpg)
-9. [Suit and shirts travel bag]({{ site.baseurl }}/assets/DSC02241.JPG) FRW 5,000   
-[dito]({{ site.baseurl }}/assets/DSC02242.JPG)
 10. [Uganda Mountain Gorilla footprint]({{ site.baseurl }}/assets/DSC02244.JPG) FRW 10,000  
 11. [Motorcycle gear; Dainese pants]({{ site.baseurl }}/assets/DSC02247.JPG) FRW 100,000    
 [ motorcycle gear; dito]({{ site.baseurl }}/assets/DSC02250.JPG)  
@@ -30,22 +27,13 @@ We have had a lot of things lying around since our move from Gisenyi and Kibuye 
 12. [Baking sheets]({{ site.baseurl }}/assets/DSC02256.JPG)  FRW 10,000  
 [dito]({{ site.baseurl }}/assets/DSC02257.JPG)  
 [dito]({{ site.baseurl }}/assets/DSC02258.JPG)  
-13. [Water boiler Nevica]({{ site.baseurl }}/assets/DSC02259.JPG)  FRW 15,000   
-[dito]({{ site.baseurl }}/assets/DSC02262.JPG)
 15. [Frying pan]({{ site.baseurl }}/assets/DSC02267.JPG)  FRW 5,000  
-16. [Cheese grater ]({{ site.baseurl }}/assets/DSC02271.JPG)  FRW 15,000   
-[dito]({{ site.baseurl }}/assets/DSC02272.JPG)  
-[dito]({{ site.baseurl }}/assets/DSC02274.JPG)  
 17. [Various kitchen utensils]({{ site.baseurl }}/assets/DSC02275.JPG) FRW 15,000 (combined)  
 [dito]({{ site.baseurl }}/assets/DSC02264.JPG)
 18. [Wall decoration, classical Rwandan motive]({{ site.baseurl }}/assets/DSC02277.JPG) FRW 20,000    
 19. [Camp bed]({{ site.baseurl }}/assets/DSC02278.JPG)  FRW 30,000  
 [dito, half way set up]({{ site.baseurl }}/assets/DSC02280.JPG)  
 [dito, ready]({{ site.baseurl }}/assets/DSC02281.JPG)
-20. [Sauce fat separator]({{ site.baseurl }}/assets/DSC02243.JPG) FRW 10,000  
-21. [Camping washing machine]({{ site.baseurl }}/assets/DSC02219.JPG) FRW 25,000
-22. [Handheld Vacuum Cleaner]({{ site.baseurl }}/assets/handheld_vacuum.jpg) FRW 20,000
-[dito]({{ site.baseurl }}/assets/handheld_vacuum2.jpg) 
 23. [3-in-1 hand held blender]({{ site.baseurl }}/assets/blender3-in-1.jpg) FRW 20.000
 24. [WMF electric herbs and spice grinder]({{ site.baseurl }}/assets/WMF_grinder.jpg) FRW 25,000 [link:](https://www.wmf.com/en/electric-mill.html) 
 25. [Juicer]({{ site.baseurl }}/assets/juicer.jpg) FRW 20,000 
