@@ -31,9 +31,6 @@ We have had a lot of things lying around since our move from Gisenyi and Kibuye 
 17. [Various kitchen utensils]({{ site.baseurl }}/assets/DSC02275.JPG) FRW 15,000 (combined)  
 [dito]({{ site.baseurl }}/assets/DSC02264.JPG)
 18. [Wall decoration, classical Rwandan motive]({{ site.baseurl }}/assets/DSC02277.JPG) FRW 20,000    
-19. [Camp bed]({{ site.baseurl }}/assets/DSC02278.JPG)  FRW 30,000  
-[dito, half way set up]({{ site.baseurl }}/assets/DSC02280.JPG)  
-[dito, ready]({{ site.baseurl }}/assets/DSC02281.JPG)
 23. [3-in-1 hand held blender]({{ site.baseurl }}/assets/blender3-in-1.jpg) FRW 20.000
 24. [WMF electric herbs and spice grinder]({{ site.baseurl }}/assets/WMF_grinder.jpg) FRW 25,000 [link:](https://www.wmf.com/en/electric-mill.html) 
 25. [Juicer]({{ site.baseurl }}/assets/juicer.jpg) FRW 20,000 
