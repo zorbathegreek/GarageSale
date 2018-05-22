@@ -33,6 +33,11 @@ We have had a lot of things lying around since our move from Gisenyi and Kibuye 
 18. [Wall decoration, classical Rwandan motive]({{ site.baseurl }}/assets/DSC02277.JPG) FRW 20,000    
 24. [WMF electric herbs and spice grinder]({{ site.baseurl }}/assets/WMF_grinder.jpg) FRW 25,000 [link:](https://www.wmf.com/en/electric-mill.html) 
 25. [Juicer]({{ site.baseurl }}/assets/juicer.jpg) FRW 20,000 
+26. [Indian water filter]({{ site.baseurl }}/assets/IMG_20180519_132036_comp.jpg) FRW 20,000  
+[dito]({{ site.baseurl }}/assets/IMG_20180519_132051_comp.jpg)
+27. [travel bag / convertible to backpack]({{ site.baseurl }}/assets/IMG_20180519_114804_comp.jpg) FRW 25,000
+[dito]({{ site.baseurl }}/assets/IMG_20180519_114516_comp.jpg)
+[dito]({{ site.baseurl }}/assets/IMG_20180519_114812_comp.jpg)
 
 
 <!-- copy and paste the following line for more items 
