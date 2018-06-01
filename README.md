@@ -1,2 +1,2 @@
-# GarageSale
+
 We are selling stuff that's been lying around forever...
