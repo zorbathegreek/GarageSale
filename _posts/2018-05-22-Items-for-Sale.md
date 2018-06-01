@@ -45,7 +45,7 @@ We have had a lot of things lying around since our move from Gisenyi and Kibuye 
 
 More coming soon...
 
-Please use the form below which is provided by [Formspree](formspree.io). It's purpose is solely to protect email addresses from spammers. Your details will be forwarded to a private email address with a hard-to-guess password and I will use them only to reply to you. 
+Please use the form below (provided by [Formspree](formspree.io) ). It's purpose is solely to protect email addresses from spammers. Your details will be forwarded to a private email address with a hard-to-guess password and I will use them only to reply to you. 
 <hr>
 <br>
 <form action="https://formspree.io/garagesale.ashs@gmail.com"
