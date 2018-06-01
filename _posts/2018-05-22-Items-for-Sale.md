@@ -55,7 +55,7 @@ Please use the form below to contact us:
     
     You are interested in: <input type="text" name="item"><br>
     
-    Your email address: <input type="email" name="replyto"><br>
+    Your email address: <input type="email" name="_replyto"><br>
     <br>
     
     <input type="submit" value="Send">
