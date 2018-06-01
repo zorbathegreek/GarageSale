@@ -66,4 +66,4 @@ Please use the form below to contact us:
 
 Will get back to you asap!
 
-This is what happens to your data: the contact form is provided by [Formspree](formspree.io). It's only purpose is to protect email addresses from spammers. Your details will be forwarded to a private email address, and they will only be used to reply to you. 
+<h4> This is what happens to your data: the contact form is provided by [Formspree](formspree.io). It's only purpose is to protect email addresses from spammers. Your details will be forwarded to a private email address, and they will only be used to reply to you. 
