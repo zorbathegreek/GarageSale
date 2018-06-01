@@ -64,4 +64,4 @@ Please use the form below which is provided by [Formspree](formspree.io). It's p
 <br>
 <hr>
 
-We'll get back to you asap!
+Will get back to you asap!
