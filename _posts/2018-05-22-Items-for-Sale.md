@@ -45,7 +45,7 @@ We have had a lot of things lying around since our move from Gisenyi and Kibuye 
 
 More coming soon...
 
-Please use the form below 
+Please use the form below to contact us:
 <hr>
 <br>
 <form action="https://formspree.io/garagesale.ashs@gmail.com"
