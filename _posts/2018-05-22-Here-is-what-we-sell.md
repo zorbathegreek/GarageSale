@@ -38,6 +38,8 @@ We have had a lot of things lying around since our move from Gisenyi and Kibuye 
 27. [travel bag / convertible to backpack]({{ site.baseurl }}/assets/IMG_20180519_114804_comp.jpg) FRW 25,000  
 [dito]({{ site.baseurl }}/assets/IMG_20180519_114516_comp.jpg)  
 [dito]({{ site.baseurl }}/assets/IMG_20180519_114812_comp.jpg)  
+28. [wireless chime]({{ site.baseurl }}/assets/wireless_chime.jpeg) FRW 20,000
+[video]({{ site.baseurl }}/assets/wireless_chime.flv)
 
 
 <!-- copy and paste the following line for more items 
